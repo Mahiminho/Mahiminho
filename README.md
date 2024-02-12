@@ -2,7 +2,7 @@
     <img src="./src/hi.gif" width="30px"/>
 </h1>
 <div align="center">
-    <img src="./src/cat.gif" width="500px"/>
+    <img src="./src/cat.gif" width="300px"/>
 </div>
 <hr>
 <div align="center">
