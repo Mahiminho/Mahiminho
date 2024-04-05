@@ -12,6 +12,3 @@
     <img src="./src/qt-original.svg" width="50px"/>&nbsp;
     <img src="./src/cmake-original.svg" width="50px"/>&nbsp;
 </div>
-<!-- <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=Mahiminho&style=plastic&color=blueviolet"/>
-</div> -->
