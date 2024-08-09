@@ -1,4 +1,4 @@
-<h1>Hi! My name is Maxim and I`m C/C++ developer
+<h1>Hi! My name is Maxim and I`m Software Developer
     <img src="./src/hi.gif" width="30px"/>
 </h1>
 <div align="center">
