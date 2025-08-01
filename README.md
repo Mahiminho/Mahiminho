@@ -1,4 +1,4 @@
-<h1>Hi! My name is Maxim and I`m Software Engineer from Ukraine
+<h1>Hi! My name is Maxim and I'm Embedded Engineer from Ukraine
     <img src="./src/hi.gif" width="30px"/>
 </h1>
 <div align="center">
@@ -8,7 +8,7 @@
 <div align="center">
     <img src="./src/c-original.svg" width="50px"/>&nbsp;
     <img src="./src/cplusplus-original.svg" width="50px"/>&nbsp;
-    <img src="./src/qt-original.svg" width="50px"/>&nbsp;
     <img src="./src/cmake-original.svg" width="50px"/>&nbsp;
+    <img src="./src/qt-original.svg" width="50px"/>&nbsp;
     <img src="./src/python-original.svg" width="50px"/>&nbsp;
 </div>
