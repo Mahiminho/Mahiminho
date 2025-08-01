@@ -1,4 +1,4 @@
-<h1>Hi! My name is Maxim and I'm Embedded Engineer from Ukraine
+<h1>Hi! My name is Max and I'm Embedded Engineer from Ukraine
     <img src="./src/hi.gif" width="30px"/>
 </h1>
 <div align="center">
